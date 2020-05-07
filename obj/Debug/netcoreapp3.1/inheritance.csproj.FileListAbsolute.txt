@@ -1,0 +1,12 @@
+/Users/cherkesky/workspace/csharp/inheritance/obj/Debug/netcoreapp3.1/inheritance.csprojAssemblyReference.cache
+/Users/cherkesky/workspace/csharp/inheritance/obj/Debug/netcoreapp3.1/inheritance.csproj.CoreCompileInputs.cache
+/Users/cherkesky/workspace/csharp/inheritance/obj/Debug/netcoreapp3.1/inheritance.AssemblyInfoInputs.cache
+/Users/cherkesky/workspace/csharp/inheritance/obj/Debug/netcoreapp3.1/inheritance.AssemblyInfo.cs
+/Users/cherkesky/workspace/csharp/inheritance/bin/Debug/netcoreapp3.1/inheritance.deps.json
+/Users/cherkesky/workspace/csharp/inheritance/bin/Debug/netcoreapp3.1/inheritance.runtimeconfig.json
+/Users/cherkesky/workspace/csharp/inheritance/bin/Debug/netcoreapp3.1/inheritance.runtimeconfig.dev.json
+/Users/cherkesky/workspace/csharp/inheritance/bin/Debug/netcoreapp3.1/inheritance.dll
+/Users/cherkesky/workspace/csharp/inheritance/bin/Debug/netcoreapp3.1/inheritance.pdb
+/Users/cherkesky/workspace/csharp/inheritance/obj/Debug/netcoreapp3.1/inheritance.dll
+/Users/cherkesky/workspace/csharp/inheritance/obj/Debug/netcoreapp3.1/inheritance.pdb
+/Users/cherkesky/workspace/csharp/inheritance/obj/Debug/netcoreapp3.1/inheritance.genruntimeconfig.cache
